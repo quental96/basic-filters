@@ -12,10 +12,6 @@
 %    FiltreWiener.m
 %    lambda_optimal.m
 %
-% The data is structured as follows:
-% 
-%    Blabla
-%
 
 %% Initialization
 clear ; close all; clc;

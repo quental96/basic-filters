@@ -23,7 +23,7 @@ Point spread function (PSF):
 
 PSF Fourier:
 
-![](images/fft_rect.jpg)
+![](images/fft_psf.jpg)
 
 Rectangle (Rect):
 
